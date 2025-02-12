@@ -17,7 +17,7 @@
 </p>
 
 ## Live Demo
-Demo is available at [https://panha.me/playground/Name-picker](https://panha.me/playground/Name-picker)
+Demo is available at [https://pinkylam.me/playground/random-name-picker](https://pinkylam.me/playground/random-name-picker)
 
 ### Technology Stack
 * Pug
